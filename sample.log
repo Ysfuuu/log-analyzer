@@ -1,0 +1,8 @@
+2026-11-22 10:00:01 INFO Application started
+2026-11-22 10:00:05 INFO Database connected
+2026-11-22 10:01:12 WARNING High memory usage
+2026-11-22 10:02:30 ERROR Database connection failed
+2026-11-22 10:03:10 ERROR Request timed out
+
+invalid log entry
+2026-11-22 10:04:00 INFO Connection restored
