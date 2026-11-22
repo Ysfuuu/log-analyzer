@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+log_analyzer_backup.py
+log_analyzer_old.py
+sample_old.log
